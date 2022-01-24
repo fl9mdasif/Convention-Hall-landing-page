@@ -1,0 +1,11 @@
+.banner {
+    -webkit-filter: blur(2px); /* Safari 6.0 - 9.0 */
+  filter: blur(2px);
+}
+#getApp img{
+    height: 60px;
+    padding: 5px;
+}
+.gaph1 {
+    padding: 40px;
+}
